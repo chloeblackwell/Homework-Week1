@@ -26,6 +26,8 @@ This project was created with:
 
 ## License 
 
+A license has not been added to this project. 
+
 ## Link To The Site 
 
 See the below link the the webpage. 
